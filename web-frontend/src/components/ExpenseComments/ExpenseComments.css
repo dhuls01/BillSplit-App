@@ -1,0 +1,20 @@
+.add-expense-bar {
+  display: flex;
+  padding: 0 0.5rem;
+}
+
+.add-expense-bar > div {
+  flex-basis: 100%;
+  border: 1px lightgray solid;
+  display: flex;
+}
+
+.expense-comments {
+  margin-top: 1rem;
+}
+
+.expense-comments > h2 {
+  padding: 0.5rem 0.5rem;
+  color: #3e4685;
+  margin-bottom: 1rem;
+}

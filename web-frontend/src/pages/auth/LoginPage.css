@@ -1,0 +1,27 @@
+.login-page {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: auto 1rem;
+}
+
+.app-logo-header {
+  font-size: 3rem;
+}
+
+.login-page-header {
+  text-align: center;
+}
+
+.login-btn {
+  width: 100%;
+  background-color: #f86967;
+  font-weight: bold;
+  color: white;
+  margin-top: 2rem;
+}
+
+.to-signin {
+  text-align: center;
+}

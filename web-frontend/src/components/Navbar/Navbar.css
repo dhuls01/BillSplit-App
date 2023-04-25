@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  height: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0.5rem;
+}
+
+.logout-btn {
+  margin-left: auto;
+}
+
+.back-btn {
+  margin-right: auto;
+}
+
+.app-logo {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 3rem;
+  justify-self: center;
+  color: #3e4685;
+}

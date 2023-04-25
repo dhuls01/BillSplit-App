@@ -1,0 +1,11 @@
+.react-date-picker__wrapper {
+  border: 1px #cccccc solid;
+  border-radius: 4px;
+  min-height: 36px;
+  padding: 0 0.5rem;
+  background-color: white;
+}
+
+.react-date-picker__wrapper svg {
+  stroke: #cccccc;
+}

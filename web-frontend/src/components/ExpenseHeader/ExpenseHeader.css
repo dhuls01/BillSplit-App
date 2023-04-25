@@ -1,0 +1,20 @@
+.expense-header-amount {
+  text-align: center;
+}
+
+.expense-header-title {
+  text-align: left;
+  color: #3e4685;
+}
+
+.expense-header {
+  padding: 1rem;
+  margin: 0.5rem 1rem 2rem 1rem;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px 2px #e5e0e0;
+}
+
+.expense-header p {
+  color: gray;
+}

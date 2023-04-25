@@ -1,0 +1,24 @@
+.expense-search-bar {
+  display: flex;
+  margin: 1rem;
+}
+
+.expense-search-bar > div {
+  flex-basis: 100%;
+  border: 1px lightgray solid;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar {
+  flex-basis: 100%;
+  background-color: inherit;
+  border: none;
+  margin-left: 1rem;
+  outline: none;
+}
+
+.expense-search-bar i {
+  color: gray;
+}

@@ -1,0 +1,22 @@
+.btn-filter {
+  color: white;
+  background-color: #3e4685;
+  border-radius: 50px;
+}
+
+.groups-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.5rem;
+  margin-bottom: 1rem;
+  color: #3e4685;
+}
+
+.groups-page {
+  padding-top: 1rem;
+}
+
+.groups-list {
+  margin-top: 2rem;
+}

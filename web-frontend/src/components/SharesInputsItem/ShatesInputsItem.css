@@ -1,0 +1,28 @@
+.shares-inputs-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shares-input {
+  width: 3rem;
+}
+.shares-input-field {
+  width: 6rem;
+  min-width: 0;
+}
+
+.amount-shares-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.amount-shares-input span {
+  margin-right: 0.2rem;
+}
+
+input[type='checkbox'] {
+  margin-right: 0.5rem;
+}

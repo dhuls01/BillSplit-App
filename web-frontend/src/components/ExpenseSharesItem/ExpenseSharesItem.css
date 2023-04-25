@@ -1,0 +1,16 @@
+.expense-shares-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px lightgray solid;
+  padding: 0.5rem;
+  margin: 0.5rem 1rem;
+}
+
+.expense-shares-item * {
+  margin: 0;
+}
+
+.expense-shares-item h4:last-child {
+  color: #3e4685;
+}
